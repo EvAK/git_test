@@ -1,0 +1,1 @@
+This is not Adam's first git project
